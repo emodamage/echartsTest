@@ -9,4 +9,4 @@ git add.
 ####将暂存区的文件提交到git仓库中
 git commit -m "提交的信息"
 ####将git仓库上传到GitHub仓库的main分支
-git push -u origin main
+git push origin main
